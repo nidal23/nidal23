@@ -1,8 +1,8 @@
 ### Hi there 👋, 
  - 🙋‍♂️ I'm Nidal,
  - 👨‍💻 I develop smart contracts,
- - 🚀 growth hack enthusiast,
- - 📕	love to read,
+ - 🚀 I'm a growth hack enthusiast,
+ - 📕	and i love to read,
  - 📫 How to reach me: nidalmo23@gmail.com
 
 <!--
