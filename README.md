@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, 
+ - 🙋‍♂️ I'm Nidal,
+ - 👨‍💻 I develop smart contracts,
+ - 🚀 growth hack enthusiast,
+ - 📕	love to read,
+ - 📫 How to reach me: nidalmo23@gmail.com
 
 <!--
 **nidal23/nidal23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
